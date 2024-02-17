@@ -94,6 +94,22 @@
   height: 40px;
 }
 
+.button-load {
+  display: flex;
+  padding: 8px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 8px;
+  background: #4e75ff;
+  border: transparent;
+  color: #fff;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+
 .wrapper-pictures {
   display: flex;
 }
